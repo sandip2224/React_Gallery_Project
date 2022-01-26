@@ -2,8 +2,7 @@ import SearchBar from './components/SearchBar'
 
 function App() {
 	return (
-		<div className="App">
-			App
+		<div className="App ui container" style={{ marginTop: '10px' }}>
 			<SearchBar />
 		</div>
 	);
